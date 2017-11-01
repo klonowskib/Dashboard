@@ -1,3 +1,4 @@
+#This has been created by Ben
 class manipulator:
     def __init__(self):
         self.total_kwh = 0
