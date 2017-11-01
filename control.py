@@ -1,6 +1,6 @@
 import manipulator
 class Controller:
-
+    #test comment for commit purposes
     # Responds to a new websocket channel being opened
     def open_channel(self):
         # Send the data that is required by the new channel
