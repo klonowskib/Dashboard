@@ -17,7 +17,7 @@ class manipulator:
         self.total_kwh += recent
         self.update_money_saved() # Update the total money saved based on the update
         # push the new value for total energy produced to the front end
-
+ 
         print('Updated: '.format(self.total_kwh))  # TODO: REMOVE
 
     # Allows the price of energy to be updated by the admin
